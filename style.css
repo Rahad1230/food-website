@@ -3,7 +3,7 @@
  * Created: Saturday, 19th July 2025 3:14:11 pm
  * Author: Md.Rahad (mdrahad1296@gmail.com)
  * -----
- * Last Modified: Saturday, 19th July 2025 9:23:51 pm
+ * Last Modified: Monday, 21st July 2025 12:57:20 am
  * Modified By: Md.Rahad (mdrahad1296@gmail.com)
  * -----
  * Copyright (c) 2025 Islamic University
@@ -198,4 +198,26 @@
     align-items: center;
     text-align: center;
     gap: 7px;
+}
+.icon{
+    font-size: 32px;
+    letter-spacing: 5px;
+}
+#facebook {
+    color: #1877F2;
+}
+#x{
+background-color:transparent;
+}
+#instra {
+    background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 32px;
+    /* Optional */
+    font-weight: bold;
+    /* Optional */
+}
+#pint{
+    color: rgb(225, 49, 56);
 }
